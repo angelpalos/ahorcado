@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_tres.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_siete.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_ocho.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_dos.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_cinco.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\zero.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_uno.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_seis.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_nueve.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\test_cuatro.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot@3x.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="C:\Users\Computo\Desktop\ahorcado\ahorcado\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\resizetizer\f\OpenSans-Regular.ttf" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\resizetizer\f\OpenSans-Semibold.ttf" />
+  </ItemGroup>
+</Project>
